@@ -4,7 +4,6 @@
 	-webkit-box-sizing: border-box;
 	   -moz-box-sizing: border-box;
 	        box-sizing: border-box;
-transition: 0.3s;
 font-family: 'Open Sans', sans-serif;
 }
 
@@ -52,6 +51,7 @@ header{
 
 .header__menu-item-link:hover{
 	border: 1px solid rgba(243,243,243,1);
+	transition: 0.3s;
 }
 
 .header__caption{
@@ -80,6 +80,7 @@ header{
 
 .header__link-scrollbutton:hover{
 	opacity: 0.7;
+	transition: 0.3s;
 }
 
 
@@ -180,6 +181,7 @@ header{
 .contactus_button:hover{
 	background-color: #FFF;
 	color: #000;
+	transition: 0.3s;
 }
 
 /* TESTIMONIALS SECTION */
@@ -263,6 +265,8 @@ footer{
 
 .footer__socials-items:hover{
 	opacity: 0.7;
+	transition: 0.3s;
+	transition: 0.3s;
 }
 
 /* PORTFOLIO */
